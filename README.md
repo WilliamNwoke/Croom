@@ -1,1 +1,13 @@
-# Croom
+## Croom
+
+A very basic chat server in python.
+
+## Running the example
+
+Open you terminal, and run the following the command
+
+```bash
+python3 main.py [localhost] [port]
+```
+
+> Note: You can only join 1 room at a time as long as you that room has been created.
