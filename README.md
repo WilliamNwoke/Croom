@@ -1,6 +1,6 @@
 ## Croom
 
-A very basic chat server in python.
+A chat server in python.
 
 ## Running the example
 
